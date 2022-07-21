@@ -1,5 +1,5 @@
 from tkinter import *
-
+# what a huge bingus sam is
 
 root = Tk()
 root.title("Calculator")
